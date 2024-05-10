@@ -25,6 +25,8 @@ Viewing Notes: Navigate to the "View Notes" section to see a list of all your ex
 Updating a Note: Click on the "Edit" button next to a note to update its title or content.
 Deleting a Note: Click on the "Delete" button next to a note to remove it from your list.
 
+
+* ResourecImg Folder conatians all images that are used in project
 ## Resources
   css - https://m1.material.io/style/color.html#color-color-palette
   images , icons -  https://www.flaticon.com/
